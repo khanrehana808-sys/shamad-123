@@ -1,0 +1,20 @@
+==================================================
+   STUDENT RECORD & GRADE MANAGEMENT SYSTEM   
+==================================================
+1. Add New Student Record
+2. Display All Student Records
+3. Search Student by Roll Number
+4. Exit
+==================================================
+
+Enter your choice (1-4): 2
+
+--------------------------------------------------
+| Roll No  | Student Name    | Average    | Grade  |
+--------------------------------------------------
+| 101      | Shamad Khan     | 92.50      | A+     |
+| 102      | Rahul Sharma    | 81.00      | A      |
+| 103      | Ananya Roy      | 74.50      | B      |
+--------------------------------------------------
+
+[+] Total Records Displayed: 3
